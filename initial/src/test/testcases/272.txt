@@ -1,0 +1,20 @@
+int main(){
+            do {
+                /* after parsing string, it must contain only digits */
+                if (!valid_digit(ptr))
+                    return 0;
+                num = atoi(ptr);
+                /* check for valid IP */
+                if (num >= 0 && num <= 255) {
+                    /* parse remaining string */
+                    ptr = strtok(NULL, DELIM);
+                    if (ptr != NULL)
+                        dots;
+                } else
+                    return 0;
+            }while (ptr);
+            /* valid IP string must contain 3 dots */
+            if (dots != 3)
+                return 0;
+            return 1;
+        }

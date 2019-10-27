@@ -1,0 +1,11 @@
+int main(){
+            if(a)
+                if(b)
+                    if(f)
+                        g;
+                    else
+                        h;
+                else
+                    d;
+            e;
+        }

@@ -1,0 +1,1 @@
+printf,(,%d is a positive number \n,,,num,),;,<EOF>

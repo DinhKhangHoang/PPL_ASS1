@@ -1,0 +1,5 @@
+int x;
+        float y;
+        int main(){
+            printf("x+y=%d",x+y);
+        }

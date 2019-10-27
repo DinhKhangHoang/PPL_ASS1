@@ -1,0 +1,10 @@
+int main() {
+        int i, j;
+        int table;
+        int max;
+        for (i = 1; i <= table; i=i+1) { // outer loop
+        for (j = 0; j <= max; j=j+1) { // inner loop
+            printf("%d x %d = %d\n", i, j, i*j);
+        }
+        printf("\n"); /* blank line between tables */
+        }}

@@ -1,0 +1,7 @@
+int main(){
+            string t[00000010];
+            t = "abc\nabc";
+            d = "def\tabc";
+            e = "ghk\rabc";
+            w = "xyz"; abc";
+        }

@@ -1,0 +1,5 @@
+int main(){
+            string t[00000010];
+            t = "abc
+abc";
+        }

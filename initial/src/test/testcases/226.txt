@@ -1,0 +1,10 @@
+int main(){
+            do
+            {
+                a+b;
+            }
+            {
+                b+c;
+            }
+            while true=false;
+        }

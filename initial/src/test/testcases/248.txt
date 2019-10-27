@@ -1,0 +1,18 @@
+int main()
+        {
+        
+            /* count down from 10*/
+            int waits;
+            int s;
+            for(s = waits; s > 0; s=s-1)
+            {
+                printf("%d\n",s);
+            }
+            printf("Happy New Year!\n");
+        
+            /* count by 3*/
+            for(s = 0; s < 10; s=s+3)
+            {
+                printf("%d\n",s);
+            }
+        }

@@ -1,0 +1,20 @@
+void main()
+        {
+            clrscr();
+            int decnum, rem, quot;
+            int i, j, octnum[100];
+            printf("Enter any decimal number : ");
+            scanf("%ld",decnum);
+            quot=decnum;
+            do{
+                octnum[i+1]=quot%8;
+                quot=quot/8;
+            }while(quot!=0);
+            
+            printf("Equivalent octal value of %d is : \n",decnum);
+            for(j=i-1; j>0; j=j-1)
+            {
+                printf("%d",octnum[j]);
+            }
+            getch();
+        }

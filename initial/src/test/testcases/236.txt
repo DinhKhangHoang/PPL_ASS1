@@ -1,0 +1,6 @@
+int main(){
+            int result;
+            int add(int a, int b){
+
+            };
+        }

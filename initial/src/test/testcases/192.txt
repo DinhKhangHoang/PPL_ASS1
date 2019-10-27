@@ -1,0 +1,1 @@
+for ( k = 1 ; k < space ; k=k+1 )printf(" ");space=space-1;

@@ -1,0 +1,2 @@
+// float a[234]; 
+ int func1(){}

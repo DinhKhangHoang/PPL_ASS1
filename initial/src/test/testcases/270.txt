@@ -1,0 +1,6 @@
+int main(){
+            if ( op == '+') sum = exp1 + exp2;
+            else if ( op == '-') sum = exp1 - exp2;
+            else if ( op == '/') sum = exp1 / exp2;
+            else if ( op == '*') sum = exp1 * exp2;
+        }

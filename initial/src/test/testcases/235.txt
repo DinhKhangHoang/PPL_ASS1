@@ -1,0 +1,6 @@
+int main(){
+            int result;
+        }
+        float add(float a,x,float b){
+            return a+b-a-b+a+b;
+        }
